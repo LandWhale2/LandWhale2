@@ -1,4 +1,4 @@
-### 👋 Hi My name is HyeokJin Kim 👋
+### 👋 Hi My name is HyeokJin Kim
 
 </br>
 
