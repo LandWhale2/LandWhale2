@@ -15,7 +15,7 @@
 
 </br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LandWhale2)](https://github.com/anuraghazra/github-readme-stats)
+[![Landwhale's github stats](https://github-readme-stats.vercel.app/api?username=LandWhale2)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
