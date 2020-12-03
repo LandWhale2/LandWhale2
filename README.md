@@ -1,5 +1,5 @@
 ### 👋 Hi My name is HyeokJin Kim
-
+##### 🐺 I'm Junior Back-End Engineer
 
 
 </br>
@@ -10,7 +10,12 @@
 
 </br>
 
-🔭    I’m currently learning Python
+🥇    I Love Python..  
+🌚    But sadly, **I am using Java..**  
+🔭    Contact me **if you want to talking about Python** !  
+
+
+📋     This is my tech [Blog](https://landwhale2.github.io/) !
 
 
 </br>
