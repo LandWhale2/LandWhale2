@@ -13,6 +13,7 @@
 🥇    I Love Python..  
 🌚    But sadly, **I am using Java..**  
 🔭    Contact me **if you want to talking about Python** !  
+> landwhale@kakao.com
 
 
 📋     This is my tech [Blog](https://landwhale2.github.io/) !
