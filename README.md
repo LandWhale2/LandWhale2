@@ -10,7 +10,8 @@
 
 </br>
 
-🥇    I Love Python..  
+🥇    I Love Python..
+💡    Also funny technology is always welcome!  
 🌚    But sadly, **I am using Java..**  
 🔭    Contact me **if you want to talking about Python** !  
 > landwhale@kakao.com
