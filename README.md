@@ -10,7 +10,7 @@
 
 </br>
 
-💡    i prefer code with low coupling and high cohesion!
+💡    i prefer code with low coupling and high cohesion!  
 🔭    Contact me **if you want to talking about programming** !  
 > landwhale@kakao.com
 
