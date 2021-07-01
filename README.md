@@ -1,5 +1,5 @@
 ### 👋 Hi My name is HyeokJin Kim
-##### 🐺 I'm Junior Back-End Engineer
+##### 🐺 I'm Back-End Engineer
 
 
 </br>
